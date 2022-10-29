@@ -4,9 +4,9 @@
 
 （２）MACアドレス：9876.5432.10FE
 
-インターフェイス：9A 76 54 FF FE 10 FE
+インターフェイス：9A 76 54 FF FE 32 10 FE
 
 
 （３）MACアドレス：FFFF.FFFF.FFFF
 
-インターフェイス：FD FF FF FF FE FF FF
+インターフェイス：FD FF FF FF FE FF FF FF
